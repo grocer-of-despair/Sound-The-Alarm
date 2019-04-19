@@ -1,0 +1,6 @@
+*.pem
+
+./stresstest.sh
+stresstest.sh
+/stresstest.sh
+
